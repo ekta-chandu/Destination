@@ -16,7 +16,7 @@ Web-Devlopement Project
 
 ## Team Members
    - Ekta Chandak-
-     emchandak_b2@el.vjti.ac.in
+     emchandak_b2@et.vjti.ac.in
    - Samiksha Naik-
      ssn.nasik@gmail.com
    - Anuja Ingle-
@@ -29,3 +29,13 @@ Web-Devlopement Project
    - Chahat Baghele
    - Rakesh Rajpurohit
    
+## Features implemented so far
+   - About page completed
+   - Login page completed
+   - Register page also completed.
+   
+## Features left to be implemented
+   - Home page 
+   - Content page
+   - 
+## [Work done till date] (https://drive.google.com/drive/folders/16IZtnxan6F5H9wzWGd_LYDZnbvYtNLFj)
