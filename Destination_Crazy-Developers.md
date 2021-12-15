@@ -37,5 +37,5 @@ Web-Devlopement Project
 ## Features left to be implemented
    - Home page 
    - Content page
-   - 
+   
 ## [Work done till date] (https://drive.google.com/drive/folders/16IZtnxan6F5H9wzWGd_LYDZnbvYtNLFj)
