@@ -21,6 +21,10 @@ You just have to select the domain and find the topic that you want to learn!
  5. Fast load time
  6. and many more
 
+## Links
+- website link-https://course-destination.herokuapp.com/
+- Drive link -[SCREENSHOTS]()
+
 ##Technology stack
 Tools and technologies that you learnt and used in the project.
 
@@ -119,13 +123,5 @@ for i in range(len(sub_url)):
    - Chahat Baghele
    - Rakesh Rajpurohit
    
-## Features implemented so far
-   - About page completed
-   - Login page completed
-   - Register page also completed.
+
    
-## Features left to be implemented
-   - Home page 
-   - Content page
-   
-## [Work done till date] (https://drive.google.com/drive/folders/16IZtnxan6F5H9wzWGd_LYDZnbvYtNLFj)
