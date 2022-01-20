@@ -24,6 +24,7 @@ You just have to select the domain and find the topic that you want to learn!
 ## Links
 - website link-https://course-destination.herokuapp.com/
 - Drive link -[SCREENSHOTS](https://drive.google.com/drive/folders/1--DoNhxr2Y7h8s3Br1JxZPmGnwi3rqVu)
+- Demo Video -[Video](https://drive.google.com/file/d/1BTRR0zFYdLsWrKfIktd3iQYTS-QvoOAy/view?usp=drivesdk)
 
 ##Technology stack
 Tools and technologies that you learnt and used in the project.
