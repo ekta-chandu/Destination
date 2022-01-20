@@ -23,7 +23,7 @@ You just have to select the domain and find the topic that you want to learn!
 
 ## Links
 - website link-https://course-destination.herokuapp.com/
-- Drive link -[SCREENSHOTS]()
+- Drive link -[SCREENSHOTS](https://drive.google.com/drive/folders/1--DoNhxr2Y7h8s3Br1JxZPmGnwi3rqVu)
 
 ##Technology stack
 Tools and technologies that you learnt and used in the project.
@@ -34,7 +34,7 @@ Tools and technologies that you learnt and used in the project.
 
 
 ## Web Scrapping
-### We use (http://www.openculture.com/) for this
+### We use http://www.openculture.com/ for this
 ```javascript
 url = "http://www.openculture.com/"
 course_dict = [{},{},{},{}]  #list of 6 dictionaries
