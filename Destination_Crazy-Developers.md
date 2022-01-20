@@ -6,11 +6,10 @@ Web-Devlopement Project
   ### In the race of education students seeks various courses to explore themselves but end up with confusion the content of which course is best for them.This apps makes it easier for them to read the review ,ratings and overview of the course provided by major online learning platforms like udemy,coursera,edx etc.We intend to bring all this courses in single app may it be finance,programming,marktting or any other topic of interest.
 
 ### There are so many online educational platforms offering courses on various topics. These domains include
-
-1.Engineering
-2.Computer Science
-3.Data Science
-4.Maths
+ 1. COMPUTER SCIENCE
+ 2. DATA SCIENCE
+ 3. ENGINEERING
+ 4. MATHS 
 
 You just have to select the domain and find the topic that you want to learn!
 
@@ -73,6 +72,7 @@ for i in range(len(sub_url)):
 
 ### Type this command in the git bash terminal
 ```javascript
+ git clone https://github.com/ekta-chandu/Inheritance-2021.git
 ```
 ### You must also have python and pip installed
 
