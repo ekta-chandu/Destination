@@ -24,9 +24,9 @@ You just have to select the domain and find the topic that you want to learn!
 ##Technology stack
 Tools and technologies that you learnt and used in the project.
 
-1.Flask - For Backend
-2.HTML CSS JS and Bootstrap - For Frontend
-3.BeautifulSoup (bs4) - For Web Scrapping
+ 1. Flask - For Backend 
+ 2. HTML CSS JS and Bootstrap - For Frontend
+ 3. BeautifulSoup (bs4) - For Web Scrapping
 
 
 ## Web Scrapping
